@@ -13,5 +13,4 @@ Therefore, you must ensure that you runs this code with JDK 8.
 | NIA    | User name | Repo | Build Status | What was explored | Review for :gift: | Score
 |--------|-----------|------|--------------|-------------------|----------------------|--------
 |        |           |      |              |                   |                      |
-
 |806420  | [Julio Salceda Godínez](https://github.com/phsxes/) | [Test branch](https://github.com/phsxes/lab2-big-ws/tree/test)    | [![Build Status](https://api.travis-ci.org/phsxes/lab2-big-ws.svg?branch=test)](https://travis-ci.org/phsxes/lab2-big-ws) | Included tests for two new languages: English -> Korean, English -> Swedish |  |    
