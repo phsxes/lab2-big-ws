@@ -1,4 +1,4 @@
-﻿[![Build Status](https://travis-ci.org/UNIZAR-30246-WebEngineering/lab2-big-ws.svg?branch=master)](https://travis-ci.org/UNIZAR-30246-WebEngineering/lab2-big-ws)
+[![Build Status](https://travis-ci.org/UNIZAR-30246-WebEngineering/lab2-big-ws.svg?branch=master)](https://travis-ci.org/UNIZAR-30246-WebEngineering/lab2-big-ws)
 # Web Engineering 2019-2020 / Big Web Services
 Please, go to the [Wiki](https://github.com/UNIZAR-30246-WebEngineering/lab2-big-ws/wiki) in order to get the instructions for this assignment.
 
@@ -23,6 +23,8 @@ Therefore, you must ensure that you runs this code with JDK 8.
 |737215  | Ruben Rodriguez Esteban | [Test Branch](https://github.com/ZgzInfinity/lab2-big-ws/tree/test)    | [![Build Status](https://travis-ci.org/ZgzInfinity/lab2-big-ws.svg?branch=test)](https://travis-ci.org/ZgzInfinity/lab2-big-ws/tree/test)| Added tests for new languages (Spanish -> Chinese, English -> Chinese) |                      |    
 |739274  | Naval Alcalá | [Test Branch](https://github.com/aeri/lab2-big-ws/tree/test)    | [![Build Status](https://travis-ci.org/aeri/lab2-big-ws.svg?branch=test)](https://travis-ci.org/aeri/lab2-big-ws/builds/607292291)| Included tests for (Spanish -> Japanese, Spanish -> Greek) |
 |698521  | Sergio Herrero Barco | [Test Branch](https://github.com/sherrero96/lab2-big-ws/tree/test)  | [![Build Status](https://travis-ci.org/sherrero96/lab2-big-ws.svg?branch=test)](https://travis-ci.org/sherrero96/lab2-big-ws/tree/test) | Added tests for (Spanish -> Galego, Spanish -> Finnish)| 
+|735508  | Ignacio Galve Ceamanos | [Test Branch](https://github.com/IgnacioSan22/lab2-big-ws/tree/test)  | [![Build Status](https://travis-ci.org/IgnacioSan22/lab2-big-ws.svg?branch=test)](https://travis-ci.org/IgnacioSan22/lab2-big-ws/tree/test) | En -> ES and same ES -> EN (test coherence) |  
 |738460  | Daniel Revillo Rey | [Test Branch](https://github.com/DaniRevillo/lab2-big-ws/tree/test)    | [![Build Status](https://travis-ci.org/DaniRevillo/lab2-big-ws.svg?branch=test)](https://travis-ci.org/DaniRevillo/lab2-big-ws/tree/test)| Added two new tests involving French (French -> Spanish, French -> English) |                      |          
 |721525  | Daniel Fraile Belmonte | [Test Branch](https://github.com/DanFzgz/lab2-big-ws/tree/test)  | [![Build Status](https://travis-ci.org/DanFzgz/lab2-big-ws.svg?branch=test)](https://travis-ci.org/DanFzgz/lab2-big-ws/tree/test) | Added tests for Spanish -> Turkish and English -> Turkish
 |737069  | Andrew Mackay | [Test Branch](https://github.com/AndrewKM210/lab2-big-ws/tree/test)  | [![Build Status](https://travis-ci.org/AndrewKM210/lab2-big-ws.svg?branch=test)](https://travis-ci.org/AndrewKM210/lab2-big-ws/tree/test) | Added tests for (English -> Afrikaans, English -> Norwegian)|
+
